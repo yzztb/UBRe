@@ -1,0 +1,11 @@
+ultrachat:
+
+https://github.com/thunlp/UltraChat
+
+baize:
+
+https://github.com/project-baize/baize-chatbot
+
+
+SODA:
+https://huggingface.co/datasets/allenai/soda
